@@ -1,0 +1,10 @@
+.cardList{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cardList > div{
+    max-width: 300px;
+    min-width: 300px;
+
+}
